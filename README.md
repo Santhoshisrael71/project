@@ -345,6 +345,7 @@ footer {
 
 ```
 # OUTPUT:
-![alt text](<Screenshot (114).png>)
+![Screenshot (115)](https://github.com/user-attachments/assets/eb0fdb98-b4fc-487c-b855-e725465abb8f)
+
 # RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
